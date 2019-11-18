@@ -118,7 +118,7 @@
     "js-cookie": "^2.2.0",
     "jsonwebtoken": "^8.1.0",
     "jwk-to-pem": "^2.0.0",
-    "knex": "^0.14.2",
+    "knex": "^0.19.5",
     "lint-staged": "^6.0.0",
     "moment": "^2.20.1",
     "moment-timezone": "^0.5.14",
